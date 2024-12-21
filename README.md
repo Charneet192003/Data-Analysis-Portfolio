@@ -5,4 +5,4 @@ Pandas file :- It extract Data from an Excel file.
 
 Power BI         :- It extract all the data of population and visualisation.
 (Polution Index)  - Create different histograms, piechart, and cards to define the data clearly as the data is very complex.
-                  - It also quantifies and diferenciates the population of male and females in different states and union territories.
+                  - It also quantifies and differenciates the population of male and females in different states and union territories.
